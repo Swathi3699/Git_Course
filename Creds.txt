@@ -1,0 +1,2 @@
+usernsme=mns
+pasword=1234
